@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["poseidon252"] = [{"text":"impl&lt;A&gt; Combine&lt;A&gt; for <a class=\"struct\" href=\"poseidon252/struct.PoseidonAnnotation.html\" title=\"struct poseidon252::PoseidonAnnotation\">PoseidonAnnotation</a>","synthetic":false,"types":["poseidon252::hashing_utils::poseidon_annotation::PoseidonAnnotation"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
